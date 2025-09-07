@@ -4,25 +4,44 @@ I'm Kaveesh, a second-year Information Systems undergraduate with a passion for 
 
 ---
 
-### 💻 Skills & Tools
-
-Here are some of the technologies I'm experienced with:
+### 💻 My GitHub Stats
 
 <p align="left">
-    <a href="https://www.cisco.com/">
-        <img src="https://img.shields.io/badge/cisco-303030?style=for-the-badge&logo=cisco&logoColor=white" />
-    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KDIAS-JR7&show_icons=true&theme=dark&rank_icon=percentile" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=KDIAS-JR7&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Skills & Certifications
+
+<p align="left">
+    <img src="https://img.shields.io/badge/CCNA_Certified-blue?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Networking-green?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<br>
+
+<p align="left">
     <a href="https://www.python.org">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    </a>
-    <a href="https://www.linux.org/">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </a>
     <a href="https://www.mysql.com/">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     </a>
     <a href="https://getbootstrap.com/">
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </a>
+    <a href="https://www.java.com/en/">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
     </a>
 </p>
 
@@ -38,10 +57,10 @@ Here are some of the technologies I'm experienced with:
 ### 🌐 Let's Connect
 
 <p align="left">
-    <a href="https://linkedin.com/in/your-linkedin-profile">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaveesh-g-aa3946115/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:kaveeshgoonasekara@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
