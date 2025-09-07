@@ -12,12 +12,6 @@ I'm Kaveesh, a second-year Information Systems undergraduate with a passion for 
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=KDIAS-JR7&theme=dark" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Skills & Certifications
