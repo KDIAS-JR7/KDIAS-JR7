@@ -34,7 +34,7 @@ I'm Kaveesh, a second-year Information Systems undergraduate with a passion for 
 ### 📚 My Projects
 
 * **[OSPF Lab Topology](https://github.com/KDIAS-JR7/OSPF-Lab-Topology)** - A Cisco Packet Tracer lab that demonstrates OSPF routing protocol configuration.
-* **[VLAN & Inter-VLAN Routing Lab](https://github.com/KDIAS-JR7/VLAN-and-Inter-VLAN-Routing-Lab)** - A lab focused on segmenting networks and enabling communication between them.
+* **[VLAN & Inter-VLAN Routing Lab](https://github.com/KDIAS-JR7/L3-InterVlanRouting-JR7)** - A lab focused on segmenting networks and enabling communication between them.
 
 ---
 
