@@ -4,14 +4,6 @@ I'm Kaveesh, a second-year Information Systems undergraduate with a passion for 
 
 ---
 
-### 💻 My GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KDIAS-JR7&show_icons=true&theme=midnight-purple&rank_icon=percentile" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Skills & Certifications
