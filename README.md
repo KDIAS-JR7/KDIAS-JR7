@@ -4,8 +4,6 @@ I'm Kaveesh, a second-year Information Systems undergraduate with a passion for 
 
 ---
 
----
-
 ### 🛠️ Skills & Certifications
 
 <p align="left">
